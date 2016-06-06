@@ -1,0 +1,24 @@
+{
+  "name": "express-response-builder",
+  "version": "0.1.0",
+  "description": "A express response builder using code, msg and body standard",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zccz14/express-response-builder.git"
+  },
+  "keywords": [
+    "express",
+    "response",
+    "builder"
+  ],
+  "author": "Riki",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zccz14/express-response-builder/issues"
+  },
+  "homepage": "https://github.com/zccz14/express-response-builder#readme"
+}
