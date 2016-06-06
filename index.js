@@ -28,6 +28,6 @@ module.exports = {
     Report: Report,
     BUGReport: BUGReport,
     SuccessReport: SuccessReport,
-    Password: Password,
+    PermissionDeniedReport: PermissionDeniedReport,
     NotFoundReport: NotFoundReport,
 };
